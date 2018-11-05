@@ -1,0 +1,12 @@
+body {
+    background-image: url(../images/trains.png)
+}
+
+#trainsched-table th, td {
+      display: inline-block;
+      width: 18.574%;
+    }
+
+h1, h2, h3, h4, h5 {
+    color: #000;
+}
